@@ -8,9 +8,9 @@ Key Points:
 
 - Optimised to not be laggy for multiple video instances.
 - Will handle resizing based on your parent element's width to maintain the aspect ratio.
-- Can handle as many videos instances as you through at it!
-- Will continue to play uninterrupted while resizing the page.
-- Your videos can be nested anywhere and this will handle it.
+- Can handle as many videos instances as you through at it!
+- Will continue to play uninterrupted while resizing the page.
+- Your videos can be nested anywhere and this will handle it.
 
 Notes:
 ------
