@@ -35,6 +35,7 @@ $('#container').on('resize', function(e){
 			// calculates the appropriate height in rounded pixels using the aspect ratio
 
 		$(this).width(containerWidth).height(videoHeight);
+		// and then apply the width and height!
 
 	});
 
